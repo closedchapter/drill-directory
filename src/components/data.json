@@ -1,0 +1,62 @@
+[
+  {
+    "tagname": "Nino",
+    "firstname": "Devone",
+    "lastname": "Pusey",
+    "age":20,
+    "sentence_date":"20180426",
+    "crime_date":"20170224",
+    "offence": [{"charge":"Murder"}, {"charge":"nil"}],
+    "sentence": "life",
+    "min_years": 20,
+    "crime_location":"Mottingham"
+  },
+  {
+    "tagname": "KK",
+    "firstname": "Kai",
+    "lastname": "Stewart",
+    "age":18,
+    "sentence_date":"20180426",
+    "crime_date":"20170224",
+    "offence": [{"charge":"Murder"}, {"charge":"nil"}],
+    "sentence": "life",
+    "min_years": 17,
+    "crime_location":"Mottingham"
+  },
+  {
+    "tagname": "Trills",
+    "firstname": "Tyrell",
+    "lastname": "Graham",
+    "age":18,
+    "sentence_date":"20200127",
+    "crime_date":"20190222",
+    "offence": [{"charge":"Murder"},{"charge":"Attempted murder"}],
+    "sentence": "life",
+    "min_years": 25,
+    "crime_location":"Wood Green"
+  },
+  {
+    "tagname": "SJ",
+    "firstname": "Jayden",
+    "lastname": "O'Neill",
+    "age":17,
+    "sentence_date":"20200127",
+    "crime_date":"20190222",
+    "offence": [{"charge":"Murder"},{"charge":"Wounding with intent to cause grievous bodily harm"}],
+    "sentence": "life",
+    "min_years": 21,
+    "crime_location":"Wood Green"
+  },
+  {
+    "tagname": "AR",
+    "firstname": "Arif",
+    "lastname": "Biomy",
+    "age":19,
+    "sentence_date":"20190812",
+    "crime_date":"20200212",
+    "offence": [{"charge":"Murder"},{"charge":"Assisting an offender"}],
+    "sentence": "life",
+    "min_years": 21,
+    "crime_location":"Camden"
+  }
+]
